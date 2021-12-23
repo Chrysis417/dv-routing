@@ -26,3 +26,7 @@ clang++-11 -fdiagnostics-color=always -g *.cpp -o main -pthread
 运行过程中，输入disp指令展示当前路由表
 
 ## 运行结果
+![1](https://user-images.githubusercontent.com/62326963/147217852-a337b6fc-0ed6-4a6c-939f-727f32baea32.png)
+![2](https://user-images.githubusercontent.com/62326963/147217857-69e06cdd-9810-4f40-a5d0-dcdc3b8113c8.png)
+![3](https://user-images.githubusercontent.com/62326963/147217859-51f582e7-0bb1-44b0-b095-41d6443a3c92.png)
+![4](https://user-images.githubusercontent.com/62326963/147217860-829e7bfe-7b92-4c16-b449-8c98b942f7ec.png)
